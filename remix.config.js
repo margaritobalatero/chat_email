@@ -5,9 +5,6 @@ export default {
     ? "./server-vercel.js"
     : undefined,
 
-  // Where your Remix app code lives
   appDirectory: "app",
-
-  // Ignore hidden files
   ignoredRouteFiles: ["**/.*"]
 };
