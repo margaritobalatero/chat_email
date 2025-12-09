@@ -1,9 +1,11 @@
 /** @type {import('@remix-run/dev').AppConfig} */
 export default {
-  appDirectory: "app",
-  assetsBuildDirectory: "public/build",
   serverBuildPath: "build/index.js",
+  assetsBuildDirectory: "public/build",
   publicPath: "/build/",
-  server: "./server-vercel.js",
   ignoredRouteFiles: ["**/.*"],
+  server: process.env.NODE_ENV === "production"
+  ? "./server-vercel.js"
+  : undefined,
+
 };
