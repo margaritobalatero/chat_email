@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["../../../app/styles/chat.css"],
-  "sourcesContent": [".chat-container {\n  background: linear-gradient(135deg, #667eea, #764ba2);\n  min-height: 100vh; /* Full viewport height */\n  padding: 20px;\n}\n\n.messages-container {\n  background: rgba(78, 71, 71, 0.8);\n  border-radius: 8px;\n  padding: 10px;\n}\n"],
-  "mappings": ";AAAA;AACE;AACA;AAFF;;AAMA;AACE;AAPF;;;",
-  "names": []
-}

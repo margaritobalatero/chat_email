@@ -3,11 +3,7 @@ import {
 } from "/build/_shared/chunk-O4BRYNJ4.js";
 import {
   RemixBrowser
-<<<<<<<< HEAD:public/build/entry.client-LSMLKP6T.js
 } from "/build/_shared/chunk-4UZOKS4R.js";
-========
-} from "/build/_shared/chunk-K5ESL77U.js";
->>>>>>>> 6859e7f620ba277e3da9a6cee79bcf5dcc465b38:public/build/entry.client-HVMYTZGV.js
 import "/build/_shared/chunk-U4FRFQSK.js";
 import {
   require_jsx_dev_runtime
@@ -17,11 +13,7 @@ import {
 } from "/build/_shared/chunk-7M6SC7J5.js";
 import {
   createHotContext
-<<<<<<<< HEAD:public/build/entry.client-LSMLKP6T.js
 } from "/build/_shared/chunk-5CIESMCK.js";
-========
-} from "/build/_shared/chunk-EPOZTH2Z.js";
->>>>>>>> 6859e7f620ba277e3da9a6cee79bcf5dcc465b38:public/build/entry.client-HVMYTZGV.js
 import "/build/_shared/chunk-UWV35TSL.js";
 import {
   __toESM
@@ -34,9 +26,9 @@ var import_jsx_dev_runtime = __toESM(require_jsx_dev_runtime(), 1);
 if (import.meta) {
   import.meta.hot = createHotContext(
     //@ts-expect-error
-    "app/entry.client.tsx"
+    "app\\entry.client.tsx"
   );
-  import.meta.hot.lastModified = "1760608824506.8008";
+  import.meta.hot.lastModified = "1756274455236.755";
 }
 (0, import_react2.startTransition)(() => {
   (0, import_client.hydrateRoot)(
@@ -52,8 +44,4 @@ if (import.meta) {
     }, this)
   );
 });
-<<<<<<<< HEAD:public/build/entry.client-LSMLKP6T.js
 //# sourceMappingURL=/build/entry.client-LSMLKP6T.js.map
-========
-//# sourceMappingURL=/build/entry.client-HVMYTZGV.js.map
->>>>>>>> 6859e7f620ba277e3da9a6cee79bcf5dcc465b38:public/build/entry.client-HVMYTZGV.js

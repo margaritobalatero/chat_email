@@ -5,11 +5,7 @@ import {
 import {
   useFetcher,
   useLoaderData
-<<<<<<<< HEAD:public/build/routes/chat-DOXOS2J2.js
 } from "/build/_shared/chunk-4UZOKS4R.js";
-========
-} from "/build/_shared/chunk-K5ESL77U.js";
->>>>>>>> 6859e7f620ba277e3da9a6cee79bcf5dcc465b38:public/build/routes/chat-R6TJUCQS.js
 import "/build/_shared/chunk-U4FRFQSK.js";
 import {
   require_jsx_dev_runtime
@@ -25,11 +21,7 @@ import {
 } from "/build/_shared/chunk-G7CHZRZX.js";
 import {
   createHotContext
-<<<<<<<< HEAD:public/build/routes/chat-DOXOS2J2.js
 } from "/build/_shared/chunk-5CIESMCK.js";
-========
-} from "/build/_shared/chunk-EPOZTH2Z.js";
->>>>>>>> 6859e7f620ba277e3da9a6cee79bcf5dcc465b38:public/build/routes/chat-R6TJUCQS.js
 import "/build/_shared/chunk-UWV35TSL.js";
 import {
   __toESM
@@ -47,7 +39,7 @@ if (!window.$RefreshReg$ || !window.$RefreshSig$ || !window.$RefreshRuntime$) {
   prevRefreshReg = window.$RefreshReg$;
   prevRefreshSig = window.$RefreshSig$;
   window.$RefreshReg$ = (type, id) => {
-    window.$RefreshRuntime$.register(type, '"app/components/Chat.tsx"' + id);
+    window.$RefreshRuntime$.register(type, '"app\\\\components\\\\Chat.tsx"' + id);
   };
   window.$RefreshSig$ = window.$RefreshRuntime$.createSignatureFunctionForTransform;
 }
@@ -57,9 +49,9 @@ var _s = $RefreshSig$();
 if (import.meta) {
   import.meta.hot = createHotContext(
     //@ts-expect-error
-    "app/components/Chat.tsx"
+    "app\\components\\Chat.tsx"
   );
-  import.meta.hot.lastModified = "1760608824506.8008";
+  import.meta.hot.lastModified = "1756912740760.1436";
 }
 function Chat({
   messages: initialMessages,
@@ -169,7 +161,7 @@ var import_session = __toESM(require_session(), 1);
 var import_db = __toESM(require_db(), 1);
 
 // app/styles/chat.css
-var chat_default = "/build/_assets/chat-2G33XVIT.css";
+var chat_default = "/build/_assets/chat-A66DY23N.css";
 
 // app/routes/chat.tsx
 var import_jsx_dev_runtime2 = __toESM(require_jsx_dev_runtime(), 1);
@@ -179,7 +171,7 @@ if (!window.$RefreshReg$ || !window.$RefreshSig$ || !window.$RefreshRuntime$) {
   prevRefreshReg = window.$RefreshReg$;
   prevRefreshSig = window.$RefreshSig$;
   window.$RefreshReg$ = (type, id) => {
-    window.$RefreshRuntime$.register(type, '"app/routes/chat.tsx"' + id);
+    window.$RefreshRuntime$.register(type, '"app\\\\routes\\\\chat.tsx"' + id);
   };
   window.$RefreshSig$ = window.$RefreshRuntime$.createSignatureFunctionForTransform;
 }
@@ -189,7 +181,7 @@ var _s2 = $RefreshSig$();
 if (import.meta) {
   import.meta.hot = createHotContext(
     //@ts-expect-error
-    "app/routes/chat.tsx"
+    "app\\routes\\chat.tsx"
   );
 }
 var links = () => [{
@@ -243,8 +235,4 @@ export {
   ChatRoute as default,
   links
 };
-<<<<<<<< HEAD:public/build/routes/chat-DOXOS2J2.js
 //# sourceMappingURL=/build/routes/chat-DOXOS2J2.js.map
-========
-//# sourceMappingURL=/build/routes/chat-R6TJUCQS.js.map
->>>>>>>> 6859e7f620ba277e3da9a6cee79bcf5dcc465b38:public/build/routes/chat-R6TJUCQS.js

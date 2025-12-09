@@ -73,8 +73,4 @@ function createHotContext(id) {
 export {
   createHotContext
 };
-<<<<<<<< HEAD:public/build/_shared/chunk-5CIESMCK.js
 //# sourceMappingURL=/build/_shared/chunk-5CIESMCK.js.map
-========
-//# sourceMappingURL=/build/_shared/chunk-EPOZTH2Z.js.map
->>>>>>>> 6859e7f620ba277e3da9a6cee79bcf5dcc465b38:public/build/_shared/chunk-EPOZTH2Z.js

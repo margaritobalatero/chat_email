@@ -5,11 +5,7 @@ import {
   Outlet,
   Scripts,
   ScrollRestoration
-<<<<<<<< HEAD:public/build/root-2L77L2S2.js
 } from "/build/_shared/chunk-4UZOKS4R.js";
-========
-} from "/build/_shared/chunk-K5ESL77U.js";
->>>>>>>> 6859e7f620ba277e3da9a6cee79bcf5dcc465b38:public/build/root-B2VPOOY7.js
 import "/build/_shared/chunk-U4FRFQSK.js";
 import {
   require_jsx_dev_runtime
@@ -17,11 +13,7 @@ import {
 import "/build/_shared/chunk-7M6SC7J5.js";
 import {
   createHotContext
-<<<<<<<< HEAD:public/build/root-2L77L2S2.js
 } from "/build/_shared/chunk-5CIESMCK.js";
-========
-} from "/build/_shared/chunk-EPOZTH2Z.js";
->>>>>>>> 6859e7f620ba277e3da9a6cee79bcf5dcc465b38:public/build/root-B2VPOOY7.js
 import "/build/_shared/chunk-UWV35TSL.js";
 import {
   __toESM
@@ -35,7 +27,7 @@ if (!window.$RefreshReg$ || !window.$RefreshSig$ || !window.$RefreshRuntime$) {
   prevRefreshReg = window.$RefreshReg$;
   prevRefreshSig = window.$RefreshSig$;
   window.$RefreshReg$ = (type, id) => {
-    window.$RefreshRuntime$.register(type, '"app/root.tsx"' + id);
+    window.$RefreshRuntime$.register(type, '"app\\\\root.tsx"' + id);
   };
   window.$RefreshSig$ = window.$RefreshRuntime$.createSignatureFunctionForTransform;
 }
@@ -44,7 +36,7 @@ var prevRefreshSig;
 if (import.meta) {
   import.meta.hot = createHotContext(
     //@ts-expect-error
-    "app/root.tsx"
+    "app\\root.tsx"
   );
 }
 var links = () => [{
@@ -124,8 +116,4 @@ export {
   App as default,
   links
 };
-<<<<<<<< HEAD:public/build/root-2L77L2S2.js
 //# sourceMappingURL=/build/root-2L77L2S2.js.map
-========
-//# sourceMappingURL=/build/root-B2VPOOY7.js.map
->>>>>>>> 6859e7f620ba277e3da9a6cee79bcf5dcc465b38:public/build/root-B2VPOOY7.js
